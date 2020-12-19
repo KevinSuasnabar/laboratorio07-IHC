@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="peru_ciudades_list">
+        <item>Lima</item>
+        <item>Arequipa</item>
+        <item>Trujillo</item>
+        <item>Chiclayo</item>
+        <item>Huancayo</item>
+        <item>Lima</item>
+        <item>Piura</item>
+        <item>Iquitos</item>
+        <item>Pucallpa</item>
+        <item>Ica</item>
+        <item>Juliaca</item>
+        <item>Puno</item>
+        <item>Huaraz</item>
+    </string-array>
+</resources>

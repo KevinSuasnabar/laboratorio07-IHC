@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="venezuela_ciudades_list">
+        <item>Barinas</item>
+        <item>Maturín</item>
+        <item>Cumaná</item>
+        <item>Punto Fijo</item>
+        <item>Mérida</item>
+        <item>Puerto La Cruz</item>
+        <item>Coro</item>
+        <item>Anaco</item>
+        <item>El Vigía</item>
+        <item>Palo Negro</item>
+        <item>San Felipe</item>
+        <item>San Carlos</item>
+        <item>Mariara</item>
+    </string-array>
+</resources>
